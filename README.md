@@ -37,3 +37,4 @@ Run `npm test` to run the unit tests.
 - Improve the styling and layout of the app.
 - More test cases.
 - Have separate commits for the development.
+- I normally would not push API key and also .env files as well, I've pushed those files to review easy for now as it's not sensitive key at the moment.
