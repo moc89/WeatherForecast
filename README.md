@@ -1,4 +1,4 @@
-Weather Forecast App
+# Weather Forecast App
 
 A single-page application displaying the 5-day weather forecast for a specified location only.
 
@@ -9,7 +9,7 @@ Built with
 - Material UI
 - OpenWeatherMap 5-day forecast API.
 
-Prerequisites
+# Prerequisites
 
 Node v18.17.1
 Yarn or npm
@@ -24,7 +24,7 @@ Yarn or npm
 
 Run `npm test` to run the unit tests.
 
-I would implement if I had more time:
+# I would implement if I had more time:
 
 - I would implement better UI ( Such as show day by day for the forecasts as we have date and times)
 - Implement a css processor and move all styles unders moduler css classes.
