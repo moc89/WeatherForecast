@@ -26,7 +26,9 @@ Run `npm test` to run the unit tests.
 
 # I would implement if I had more time:
 
-- I would implement better UI ( Such as show day by day for the forecasts as we have date and times)
+- I would implement to show day by day for the forecasts as we have date and times.
+- Search Button; to give option to change city to user.
+- Detailed View; as we get detailed data from API such as hourly forecast. 
 - Implement a css processor and move all styles unders moduler css classes.
 - Implement better error handling for the API requests.
 - Implement another base module for API calls.
